@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+  />
+  <title>專屬語音播放頁</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="page">
+    <section class="player-card">
+      <header class="player-header">
+        <div class="header-left">
+          <span class="dot"></span>
+          <span class="dot"></span>
+          <span class="dot"></span>
+        </div>
+        <div class="header-title" id="pageTitle">專屬語音播放頁</div>
+      </header>
+
+      <div class="player-body">
+        <div class="audio-visual" id="audioVisual">
+          <div class="bg-image" id="bgImage"></div>
+          <div class="bg-overlay"></div>
+
+          <div class="center-content">
+
+            <div class="play-overlay" id="playOverlay">
+              <button class="play-button" id="playButton" type="button" aria-label="播放">
+                ▶
+              </button>
+            </div>
+          </div>
+
+          <div class="bottom-controls">
+            <audio
+              id="audioPlayer"
+              class="audio-player"
+              controls
+              preload="metadata"
+              controlsList="nodownload noplaybackrate"
+            >
+              <source id="audioSource" src="" type="audio/mpeg" />
+              你的瀏覽器不支援 HTML5 音訊播放。
+            </audio>
+          </div>
+
+          <div class="message-layer" id="messageLayer">
+            <div class="message-box">
+              <h2 id="messageTitle">語音載入中</h2>
+              <p id="messageText">請稍候...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+</html>
