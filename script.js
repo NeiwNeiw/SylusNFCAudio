@@ -2,7 +2,7 @@ const mediaMap = {
   "dailyrX3c3zRX": {
     title: "If you're tired, or worn out, or not okay… I’m right behind you.",
     image: "dailyrX3c3zRX.png",
-    audio: "dailyrX3c3zRX.m4a"
+    audio: "dailyrX3c3zRX.mp3"
   },
   "dailyi6lqoap3c": {
     title: "My little kitten can always be spoiled by me.",
