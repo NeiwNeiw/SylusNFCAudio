@@ -2,17 +2,17 @@ const mediaMap = {
   "dailyrX3c3zRX": {
     title: "If you're tired, or worn out, or not okay… I’m right behind you.",
     image: "dailyrX3c3zRX.png",
-    audio: "dailyrX3c3zRX.mp3"
+    audio: "dailyrX3c3zRX.m4a"
   },
-  "x9k2m7": {
-    title: "語音二",
-    image: "cover2.jpg",
-    audio: "audio2.mp3"
+  "dailyi6lqoap3c": {
+    title: "My little kitten can always be spoiled by me.",
+    image: "dailyi6lqoap3c.jpg",
+    audio: "dailyi6lqoap3c.mp3"
   },
-  "r4nd0m88": {
-    title: "語音三",
-    image: "cover3.jpg",
-    audio: "audio3.mp3"
+  "dailyekqx9tokk": {
+    title: "Be yourself—with me.",
+    image: "dailyekqx9tokk.jpg",
+    audio: "dailyekqx9tokk.mp3"
   }
 };
 
