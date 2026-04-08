@@ -6,12 +6,12 @@ const mediaMap = {
   },
   "dailyi6lqoap3c": {
     title: "My little kitten can always be spoiled by me.",
-    image: "dailyi6lqoap3c.jpg",
+    image: "dailyi6lqoap3c.png",
     audio: "dailyi6lqoap3c.mp3"
   },
   "dailyekqx9tokk": {
     title: "Be yourself—with me.",
-    image: "dailyekqx9tokk.jpg",
+    image: "dailyekqx9tokk.png",
     audio: "dailyekqx9tokk.mp3"
   }
 };
