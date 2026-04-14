@@ -33,6 +33,16 @@ const mediaMap = {
     title: "I claim you. I take you in… this is my love.",
     image: "sunc892p8reyk8q.png",
     audio: "sunc892p8reyk8q.mp3"
+  },
+  "sexmitdi5ys31gx": {
+    title: "How does that feel… kitten?",
+    image: "sexmitdi5ys31gx.png",
+    audio: "sexmitdi5ys31gx.mp3"
+  },
+  "sexykdpo8nuvinb": {
+    title: "Don’t leave… not until I set it free",
+    image: "sexykdpo8nuvinb.png",
+    audio: "sexykdpo8nuvinb.mp3"
   }
 };
 
