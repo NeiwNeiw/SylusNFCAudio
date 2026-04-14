@@ -2,7 +2,7 @@ const mediaMap = {
   "dailyrX3c3zRX": {
     title: "If you're tired, or worn out, or not okay… I’m right behind you.",
     image: "dailyrX3c3zRX.png",
-    audio: "dailyrX3c3zRX.mp3"
+    audio: "dailyrX3c3zRX.m4a"
   },
   "dailyi6lqoap3c": {
     title: "My little kitten can always be spoiled by me.",
@@ -13,6 +13,26 @@ const mediaMap = {
     title: "Be yourself—with me.",
     image: "dailyekqx9tokk.png",
     audio: "dailyekqx9tokk.mp3"
+  },
+  "sun5vatyqbddro0": {
+    title: "Now, we exist in the same world.",
+    image: "sun5vatyqbddro0.png",
+    audio: "sun5vatyqbddro0.mp3"
+  },
+  "sun3n4p9kx2yap6": {
+    title: "Now you’re marked by me… completely.",
+    image: "sun3n4p9kx2yap6.png",
+    audio: "sun3n4p9kx2yap6.mp3"
+  },
+  "sunxdqcteglzi2o": {
+    title: "You’re the one I keep hidden… my treasure.",
+    image: "sunxdqcteglzi2o.png",
+    audio: "sunxdqcteglzi2o.mp3"
+  },
+  "sunc892p8reyk8q": {
+    title: "I claim you. I take you in… this is my love.",
+    image: "sunc892p8reyk8q.png",
+    audio: "sunc892p8reyk8q.mp3"
   }
 };
 
